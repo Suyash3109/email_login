@@ -122,7 +122,7 @@ class _RegScr extends State<RegScr> {
           border: OutlineInputBorder(borderRadius: BorderRadius.circular(20))),
       autofocus: false,
       controller: passwordeditingcontroller,
-      obscureText: true,
+      //obscureText: true,
 
 //keyboardType: TextInputType.emailAddress,
       validator: (value) {
@@ -291,7 +291,7 @@ class _RegScr extends State<RegScr> {
     Fluttertoast.showToast(msg: "Account created successfully");
     Navigator.pushAndRemoveUntil(
         (context),
-        MaterialPageRoute(builder: (context) => loginScreen()),
+        MaterialPageRoute(builder: (context) => HomeScreen()),
         (route) => false);
   }
 }
