@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307919272033",
+    "project_id": "akatsuki-4243e",
+    "storage_bucket": "akatsuki-4243e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307919272033:android:9f25a12af76a5124959220",
+        "android_client_info": {
+          "package_name": "com.example.email_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307919272033-7lm87foqkfhicb1k92htq4dsmv239mvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdEDWWYe7Oi1kCNKsJWdNPpfBqWEv7VtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307919272033-7lm87foqkfhicb1k92htq4dsmv239mvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
